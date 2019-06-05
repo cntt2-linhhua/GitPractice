@@ -19,5 +19,4 @@ call apply_patches_with_revert.bat
 popd
 
 :quit
-
 "user their"
