@@ -19,3 +19,5 @@ call apply_patches_with_revert.bat
 popd
 
 :quit
+
+Hua Thi Linh 17CNTT2

@@ -28,6 +28,10 @@ if errorlevel 1 (
 :end
 
 popd
+popd
+popd
+popd
+
 
 if "%REVERT_CONFIG%"=="revertconfig" (
 	echo.
